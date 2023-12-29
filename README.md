@@ -10,4 +10,4 @@ To use program use `./a.out foo` where foo is file name, file (for now) should l
     200.516
     ....
 
-Just values in 1 column and program will sort it out and spew out histogram
+Just values in 1 column and program will sort it out and spew file from which you can graph histogram. It can process over 2 million lines in about 0.5 seconds which is quite long imo
